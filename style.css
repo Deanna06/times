@@ -1,15 +1,12 @@
-
-
-
-
-
 body{
-	background-color: orange
+	color:white;
+	background-color:black;
+	font-size: 100x
 }
-p{
-	outline-color:red 
-}
-title{
-	outline-color: blue
+h1{
+	color: blue;
 }
 
+h2{
+	color: green;
+}
